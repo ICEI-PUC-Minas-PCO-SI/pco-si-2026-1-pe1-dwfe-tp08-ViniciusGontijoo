@@ -5,15 +5,15 @@ Nesta atividade, você fazer exercícios de programação para vai praticar a ma
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Vinícius Gabriel Gontijo de Souza
+- Matricula: 907459
 
 ## Prints do console do navegador
 
-<<  COLOQUE A IMAGEM - LISTAGEM DE TÍTULOS - AQUI >>
+![Listagem de Títulos](img/listagem-titulos.png)
 
-<<  COLOQUE A IMAGEM - CÁLCULO DE MÉDIAS - AQUI >>
+![Cálculo de Médias](img/calculo-media.png)
 
-<<  COLOQUE A IMAGEM - RESUMO DE VERIFICAÇÕES (SOME E EVERY) - AQUI >>
+![Resumo de Verificações](img/resumo-verificacoes.png)
 
-<<  COLOQUE A IMAGEM - PÁGINA COM O RESUMO - AQUI >>
+![Resumo da Página](img/resumo-pagina.png)
